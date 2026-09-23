@@ -188,11 +188,13 @@ The dashboard provides a business-friendly view of customer purchasing behavior 
 
 ### Dashboard Preview
 
+> Add your Power BI dashboard screenshot here.
 
-
-![Customer Shopping Behavior Dashboard](https://github.com/umeeranasha-design/Customer_behavior_analysis/blob/main/Customer_behavior.png)
+```markdown
+![Customer Shopping Behavior Dashboard](customer_shopping_dashboard.png)
 ```
 
+---
 
 ## 💡 Business Recommendations
 
@@ -215,16 +217,16 @@ Customer-Shopping-Behavior-Analysis/
 │   └── customer_shopping_behavior.csv
 │
 ├── python/
-│   └── customer_behavior.ipynb
+│   └── customer_behavior_analysis.ipynb
 │
 ├── sql/
-│   └── customer_behavior.sql
+│   └── customer_behavior_analysis.sql
 │
 ├── powerbi/
-│   └── customer_behavior.pbix
+│   └── customer_shopping_behavior.pbix
 │
 ├── images/
-│   └── customer_behavior.png
+│   └── customer_shopping_dashboard.png
 │
 └── README.md
 ```
@@ -254,4 +256,6 @@ Customer-Shopping-Behavior-Analysis/
 
 Data Analyst | Python | SQL | Excel | Power BI | Tableau
 
+---
 
+⭐ If you find this project useful, feel free to explore the repository and connect with me!
