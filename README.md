@@ -257,4 +257,3 @@ Data Analyst | Python | SQL | Excel | Power BI | Tableau
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and connect with me!
