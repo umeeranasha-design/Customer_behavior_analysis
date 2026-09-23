@@ -191,7 +191,7 @@ The dashboard provides a business-friendly view of customer purchasing behavior 
 
 
 ```markdown
-![Customer Shopping Behavior Dashboard](https://github.com/umeeranasha-design/Customer_behavior_analysis/blob/main/Customer_behavior.png)
+![Customer Shopping Behavior Dashboard](https://github.com/umeeranasha-design/Customer_behavior_analysis/blob/main/Customer_behavior)
 ```
 
 ---
