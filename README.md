@@ -190,11 +190,10 @@ The dashboard provides a business-friendly view of customer purchasing behavior 
 
 > Add your Power BI dashboard screenshot here.
 
-```markdown
+
 ![Customer Shopping Behavior Dashboard](customer_shopping_dashboard.png)
 ```
 
----
 
 ## 💡 Business Recommendations
 
